@@ -13,7 +13,7 @@ A simple Todo application built with React Native that allows users to add tasks
 To get started with this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RoshaanH/Todo-App-React-Native
+   git clone https://github.com/RoshaanT1/Todo-App-React-Native
    ```
 2. Navigate to the project directory:  
    ```
